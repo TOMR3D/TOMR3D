@@ -1,6 +1,10 @@
  ##  Tom Redmond - iOS Developer
 
-<!--
+<!--<img width="180" height="180" alt="swift" src="https://github.com/user-attachments/assets/dfa5d3d4-850e-4e93-8a74-399a7a168f21" />
+
+![swiftUI](https://github.com/user-attachments/assets/4a01646c-5178-4a04-a3f7-02bb31d514eb)
+
+
 **TOMR3D/TOMR3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
