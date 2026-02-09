@@ -1,8 +1,4 @@
  ##  Tom Redmond - iOS Developer
- 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="28" alt="Apple Logo" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" alt="Swift" />
@@ -11,6 +7,6 @@
 </p>
 
 <p align="center">
-  <b>Building thoughtful, native iOS experiences</b><br/>
-  Swift • SwiftUI • UIKit
+  <b>Building cool, native iOS apps</b><br/>
+  Swift • SwiftUI
 </p>
