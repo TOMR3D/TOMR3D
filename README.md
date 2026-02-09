@@ -1,8 +1,19 @@
  ##  Tom Redmond - iOS Developer
+ 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="28" alt="Apple Logo" />
+</p>
 
-<!--<img width="180" height="180" alt="swift" src="https://github.com/user-attachments/assets/dfa5d3d4-850e-4e93-8a74-399a7a168f21" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" alt="Swift" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60" alt="SwiftUI" />
+</p>
 
-![swiftUI](https://github.com/user-attachments/assets/4a01646c-5178-4a04-a3f7-02bb31d514eb)
+<p align="center">
+  <b>Building thoughtful, native iOS experiences</b><br/>
+  Swift • SwiftUI • UIKit
+</p>
 
 
 **TOMR3D/TOMR3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
