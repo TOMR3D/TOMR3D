@@ -1,4 +1,4 @@
- ##  Tom Redmond - iOS Developer
+ ## Tom Redmond - iOS Developer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" alt="Swift" />
