@@ -1,4 +1,4 @@
- ## Tom Redmond - iOS Developer
+ ## Tom Redmond - App Developer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" alt="Swift" />
@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <b>Building cool, native iOS apps</b><br/>
+  <b>Building cool, native apps</b><br/>
   Swift • SwiftUI • SwiftData
 </p>
